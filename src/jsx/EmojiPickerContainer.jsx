@@ -5,9 +5,9 @@ const appStyle = {
   boxSizing: 'border-box',
   left: '50%',
   position: 'absolute',
-  top: '-100%',
+  top: '-350%',
   transform: 'translate(-50%, -50%)',
-  width: '80%',
+  width: '95%',
   zIndex: 100,
 };
 
